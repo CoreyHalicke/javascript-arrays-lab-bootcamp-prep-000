@@ -36,10 +36,3 @@ function removeFirstKitten() {
   let newName = kittens.slice(1)
   return newName
 }
-
-
-
-
-
-
-
