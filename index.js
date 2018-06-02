@@ -32,7 +32,10 @@ function removeLastKitten() {
   return newName
 }
 
-function 
+function removeFirstKitten() {
+  let newName = kitten.slice(1)
+  return newName
+}
 
 
 
